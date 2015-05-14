@@ -52,9 +52,7 @@
 }
 
 - (void)dealloc {
-  [player release];
-  [movie release];
-  [super dealloc];
+
 }
 
 @end
